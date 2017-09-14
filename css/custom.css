@@ -1,0 +1,9 @@
+.intro-tag-line {
+  font-family: 'Droid Serif', 'Helvetica Neue',
+  Helvetica, Arial, sans-serif;
+  font-size: 23px;
+  font-style: italic;
+}
+.btn-xl {
+  background-color: red;
+}
