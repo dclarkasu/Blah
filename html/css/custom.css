@@ -4,6 +4,23 @@
   font-size: 23px;
   font-style: italic;
 }
+/*Tell Me More button*/
 .btn-xl {
   background-color: blue;
+}
+header.masthead {
+  background-image: url("../img/Santorini.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+header.masthead img {
+  transform: rotateY(180deg);
+  -webkit-transform: rotate(7deg);
+  /*transform: scaleY(-1);*/
+  transform: scaleX(-1);
 }
