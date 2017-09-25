@@ -9,7 +9,7 @@
   background-color: blue;
 }
 header.masthead {
-  background-image: url("../img/Santorini.jpg");
+  background-image: url("../img/Santorini_copy.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -19,8 +19,8 @@ header.masthead {
   background-size: cover;
 }
 header.masthead img {
-  transform: rotateY(180deg);
+  /*transform: rotateY(180deg);
   -webkit-transform: rotate(7deg);
-  /*transform: scaleY(-1);*/
-  transform: scaleX(-1);
+  transform: scaleY(-1);
+  transform: scaleX(-1);*/
 }
